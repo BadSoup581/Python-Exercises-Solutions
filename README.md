@@ -1,1 +1,1 @@
-# Python-Exercises-Solutions
+# Exercícios de python com soluções nem sempre elegantes!
